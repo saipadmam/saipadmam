@@ -75,10 +75,6 @@ I enjoy connecting cloud platforms with developer workflows so teams can spend m
   <img alt="Sai's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saipadmam&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img width="49%" alt="Sai's repos by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saipadmam&theme=github_dark" />
-  <img width="49%" alt="Sai's most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saipadmam&theme=github_dark" />
-</p>
 
 ## Connect
 
