@@ -71,10 +71,28 @@ I enjoy connecting cloud platforms with developer workflows so teams can spend m
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img alt="Sai's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saipadmam&theme=github_dark" />
-</p>
+<!-- GITHUB_SNAPSHOT:START -->
+<!-- Auto-updated by .github/workflows/update-profile-snapshot.yml. -->
 
+```mermaid
+pie showData
+    title Public repo language mix
+    "Java" : 209553
+    "Go" : 60420
+    "Shell" : 14181
+    "Makefile" : 12872
+    "Dockerfile" : 2290
+    "Mustache" : 1907
+```
+
+**Snapshot**
+
+- Public repositories analyzed: **4**
+- Total public stars: **0**
+- Top languages: **Java, Go, Shell, Makefile**
+- Refresh cadence: **hourly when data changes**
+
+<!-- GITHUB_SNAPSHOT:END -->
 
 ## Connect
 
