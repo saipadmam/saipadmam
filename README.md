@@ -71,9 +71,13 @@ I enjoy connecting cloud platforms with developer workflows so teams can spend m
 
 ## GitHub Snapshot
 
-<p>
-  <img height="165" alt="Sai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saipadmam&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" alt="Sai's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipadmam&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img alt="Sai's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saipadmam&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="Sai's repos by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saipadmam&theme=github_dark" />
+  <img width="49%" alt="Sai's most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saipadmam&theme=github_dark" />
 </p>
 
 ## Connect
