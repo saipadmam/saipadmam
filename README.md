@@ -71,7 +71,6 @@ My research interests include AI-powered workflows, context-aware automation, me
 
 I like building small, practical tools that remove toil from infrastructure and release workflows.
 
-- [snapscheduler](https://github.com/saipadmam/snapscheduler): scheduled snapshots for Kubernetes persistent volumes, written in Go.
 - Kubernetes operations: controllers, platform workflows, deployment automation, and reliability improvements.
 
 ### Platform engineering and reliability
@@ -85,7 +84,6 @@ I work on the systems behind software delivery: CI/CD pipelines, GitHub workflow
 
 I enjoy connecting cloud platforms with developer workflows so teams can spend more time shipping and less time fighting setup.
 
-- [gcp-plugin-core-java](https://github.com/saipadmam/gcp-plugin-core-java): Java libraries for integrating Google Cloud Platform with open source tools.
 - GitHub, Jenkins, Argo CD, Kubernetes, Terraform, and observability-focused workflows.
 
 ## Toolbox
