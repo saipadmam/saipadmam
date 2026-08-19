@@ -1,8 +1,8 @@
-# Hey there, I'm Sai Padmam
+# Hey there, this is Sai
 
-I'm an AI enthusiast and platform engineer who loves creating AI workflows that make life easier.
+I build practical AI workflows for the messy parts of engineering: repeated checks, context switching, release steps, documentation drift, and operational tasks that quietly eat time.
 
-My work sits at the intersection of SRE, DevOps, cloud-native platforms, and applied AI. I enjoy turning repeatable operational work into agents, automations, pipelines, and guardrails that help teams move faster with more confidence.
+My work sits at the intersection of SRE, DevOps, cloud-native platforms, and applied AI. I like turning complex systems into simpler paths with agents, automations, pipelines, and guardrails that help teams move faster with more confidence.
 
 <p>
   <a href="https://github.com/saipadmam?tab=repositories">
